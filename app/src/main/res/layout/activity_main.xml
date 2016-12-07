@@ -15,7 +15,7 @@
         android:layout_height="match_parent">
         <LinearLayout
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
+            android:layout_height="wrap_content"
             android:orientation="vertical">
             <HorizontalScrollView
                 android:layout_width="match_parent"
@@ -278,6 +278,21 @@
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
                                 android:text="relajala!!!..... bonito che!"/>
+                        </LinearLayout>
+                        <LinearLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal">
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="josé_guto_server"
+                                android:textColor="@android:color/black"/>
+                            <TextView
+                                android:layout_marginLeft="5dp"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="que envidia."/>
                         </LinearLayout>
                     </LinearLayout>
                 </LinearLayout>
