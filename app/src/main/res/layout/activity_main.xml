@@ -294,6 +294,21 @@
                                 android:layout_height="wrap_content"
                                 android:text="que envidia."/>
                         </LinearLayout>
+                        <LinearLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal">
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="lacauquita"
+                                android:textColor="@android:color/black"/>
+                            <TextView
+                                android:layout_marginLeft="5dp"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="mi espalda me dueleeeeeeeeeeeeeeeeeeeeee"/>
+                        </LinearLayout>
                     </LinearLayout>
                 </LinearLayout>
             </LinearLayout>
